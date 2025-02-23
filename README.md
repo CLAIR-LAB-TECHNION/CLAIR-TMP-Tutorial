@@ -1,3 +1,5 @@
+![Alt text](https://github.com/CLAIR-LAB-TECHNION/CLAIR-TMP-Tutorials/blob/main/assets/figures/messy-kitchen-robot.png)
+
 # Introduction to Task and Motion Planning and Learning
 Our focus is on exploring settings in which robotic agents need to perform complex tasks that require high-level reasoning and planning, on the one hand, and an understanding of how to move and operate in the physical environment, on the other hand. Since we are interested in complex tasks, simply learning an optimal policy from previously performed trajectories is insufficient.
 
