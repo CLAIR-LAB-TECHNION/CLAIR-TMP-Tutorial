@@ -13,7 +13,7 @@ motion_planning_files = [f.replace('motion_planning/', '') for f in motion_plann
 motion_planning_files.extend(['klampt_world.xml', "ur5.urdf"])
 
 setup(
-    name='ICAPS-24',
+    name='CLAIR-TMP',
     version='0.1.0',
     packages=find_packages(),
     python_requires='>=3.9',
